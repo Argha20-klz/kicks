@@ -125,7 +125,7 @@ input {
       rgba(0, 0, 0, 0) 31.12%,
       rgba(0, 0, 0, 0.5) 66.06%
     ),
-    url("/assets/images/landing.jpg");
+    url("../images/landing.jpg");
   background-position: center;
   background-size: cover;
   height: 750px;
