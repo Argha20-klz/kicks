@@ -16,7 +16,7 @@
 }
 /* banner */
 .listing-main {
-  background-image: url("/assets/images/listing-banner.png");
+  background-image: url("../images/listing-banner.png");
   background-position-x: 109px;
   background-position-y: -369px;
   background-size: 1476px;
